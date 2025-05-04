@@ -1,0 +1,160 @@
+sudo apt update
+sudo apt update && sudo apt upgrade
+sudo apt update
+ssh-keygen
+.ssh
+/.ssh/*.pub
+ssh-keygen
+/ .ssh/*.pub
+sudo su
+cd
+ssh-keygen
+/ .ssh/*.pub
+/.ssh/*.pub
+ssh-keygen
+cat$HOME/.ssh/*.pub
+sudo su
+cd ~
+ssh-keygen
+cd~
+cd $HOME
+ssh-keygen
+cat$HOME/.ssh/*.pub
+cat $HOME/.ssh/*.pub
+sudo mkdir /mnt/cdrom
+sudo mount /dev/cdrom /mnt/cdrom
+sudo /mnt/cdrom/VBoxLinuxAdditions.run
+sudo apt update
+sudo apt install bzip2
+sudo /mnt/cdrom/VBoxLinuxAdditions.run
+sudo reboot
+lsmod | grep vboxguest
+cd~
+cd ~ 
+ssh-keygen
+cat $HOME/.ssh/*.pub
+mkdir repogit
+cd
+cd repogit
+git clone git@github.com:martina-mangini/TP_AySO.git
+sudo apt install git
+git clone [200~git@github.com:martina-mangini/TP_AySO.git~
+pewd
+pwd
+ls -l
+cd T
+ssh-keygen
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:martina-mangini/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+os-release
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep <parámetro> Home_url /etc/os-release
+grep -i home_url /etc/os-release
+man grep
+grep <i> Home_url /etc/os-release
+grep -i home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add .
+git config --global user.email "martinamangini.contact@gmail.com"
+git config --global user.name "martina-mangini"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+sudo apt update 
+apt list --upgradable 
+sudo apt upgrade 
+sudo apt git
+sudo apt install git
+sudo reboot
+sudo apt update 
+apt list --upgradable 
+sudo apt dist-upgrade 
+sudo apt purge
+sudo apt autoremove 
+sudo apt upgrade 
+EXIT
+exit
+ls
+ssh
+ls
+cd repogit/
+ls
+cd
+ls
+cd repogit/
+ls
+TP_AySO/
+cd TP_AySO/
+ls
+cat /etc/os-release 
+ls
+man grep
+grep HOME_URL /etc/os-release 
+cat /etc/os-release 
+grep PRETTY_NAME /etc/os-release 
+whoami
+echo "Usuario= $(whoami)" > datos_usuario.txt 
+cat datos_usuario.txt 
+git add .
+gti status
+git
+git config --global user.email "martinamangini.contact@gmail.com"
+git config --global user.name "martina-mangini"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push 
+grep 
+cat /proc/cpuinfo 
+cat /proc/cpuinfo | grep tail -n1
+cat /proc/cpuinfo | grep "modelname"
+cat /proc/cpuinfo | grep "model name"
+cat /proc/cpuinfo | grep tail -n1 "model name"
+cat /proc/cpuinfo | grep "model name" tail -n1
+echo "Usuario= $(cat /proc/cpuinfo | grep "model name")" > datos_usuario.txt 
+cat datos_usuario.txt 
+nano datos_usuario.txt 
+cd 
+nano .bash_history 
+ls
+cd repogit/
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-releas
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+cat <<EOF >> README.md
+Alumno: Martina Mangini
+División: 315
+Turno: Noche
+EOF
+
+nano README.md 
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
